@@ -1,4 +1,3 @@
-// src/ScheduleMeetingTab.jsx
 import React, { useState, useEffect, useRef } from 'react';
 import FullCalendar from '@fullcalendar/react';
 import timeGridPlugin from '@fullcalendar/timegrid';
