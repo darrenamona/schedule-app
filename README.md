@@ -59,6 +59,3 @@ A modern web-based scheduling platform built with **React.js**, **Firebase**, an
    ```bash
    npm start
    ```
-
-
-This project is open-source.
