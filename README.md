@@ -9,10 +9,7 @@ A modern web-based scheduling platform built with **React.js**, **Firebase**, an
 - 👥 **Friend System** for adding and managing trusted collaborators
 - 📨 **Group Meeting Invites** with RSVP support (✅ / ❌)
 - 🔄 **Availability Merging** to visualize friends' busy time blocks
-- 🎯 **Priority-Based Scheduling**: higher-priority events override lower ones with re-invites
-- 🔍 **Translucent Invitations** until RSVP’d, with attendee status overview
 - 💬 **Optional Meeting Fields**: description, location, link
-- 🧹 **Clean UX**: responsive design using Bootstrap 5 and role-aware permissions
 
 ## 🛠 Tech Stack
 
@@ -26,7 +23,6 @@ A modern web-based scheduling platform built with **React.js**, **Firebase**, an
    ```bash
    git clone https://github.com/darrenamona/schedule-app.git
    cd schedule-app
-````
 
 2. **Install dependencies**:
 
